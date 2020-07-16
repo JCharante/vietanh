@@ -1,6 +1,9 @@
 # vietanh
 repository of words extracted from a viet anh dictionary along w/ code and sources
 
+# Quickstart
+
+Download `dump.json` and use it in your program.
 
 # How to reproduce
 
