@@ -16,5 +16,6 @@ Download `dump.json` and use it in your program.
   - DISCLAIMER: `dictdlib.py` was taken from https://github.com/jgoerzen/dictdlib/blob/master/dictdlib.py so thanks to `jgoerzen` who wrote this 18 years ago.
   - If you are reading a different dictionary, you're going to need to change `vietanh` on line 380 to the name of the dictionary files.
 
-Now you have a json file of 23,434 vietnamese words and their definitions in English.
+- Now you have a json file of 23,434 vietnamese words and their definitions in English!
 
+- Python 3 is able to read them just fine. If you want the JSON to be in unicode then run `main.py`
