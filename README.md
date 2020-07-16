@@ -8,6 +8,7 @@ Download `dump.json` and use it in your program.
 # How to reproduce
 
 - Go to http://www.informatik.uni-leipzig.de/~duc/Dict/install.html and download VietAnh.zip, these scripts should work for anything you can download there (actually, this should work for any Dictionary files stored according to the DICT Protocol)
+  - I have backed up these files to my Dropbox in case the server goes down. Email me at contactme AT {github_username} DOT com
 
 - Extract it and find the files `vietanh.dict.dz` `vietanh.index`.
 
