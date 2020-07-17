@@ -1,5 +1,5 @@
 # vietanh
-repository of words extracted from a viet anh dictionary along w/ code and sources
+A repository of words extracted from a viet anh dictionary (FVDP Vietnamese-English dictionary) along w/ code and sources
 
 # Quickstart
 
@@ -19,3 +19,12 @@ Download `dump-utf8.json` and use it in your program.
 - Now you have a json file of 23,434 vietnamese words and their definitions in English!
 
 - If you want the file to use utf-8 so it's legible, run `convert.py` with Python 3 (I used 3.8 but earlier releases should work)
+
+
+# Notice
+
+It should be noted that the dumps have the licensing info included with them, look under key `00-database-info`.
+
+```
+This is the Vietnamese-English dictionary database of the Free Vietnamese Dictionary Project. It contains more than 23.400 entries with definitions and illustrative examples.\n- This database was compiled by Ho Ngoc Duc and other members of the Free Vietnamese Dictionary Project (http://www.informatik.uni-leipzig.de/~duc/Dict/)\n- Copyright (C) 1997-2003 The Free Vietnamese Dictionary Project\n- This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version. This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
+```
