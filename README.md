@@ -3,7 +3,7 @@ repository of words extracted from a viet anh dictionary along w/ code and sourc
 
 # Quickstart
 
-Download `dump.json` and use it in your program.
+Download `dump-utf8.json` and use it in your program.
 
 # How to reproduce
 
@@ -18,4 +18,4 @@ Download `dump.json` and use it in your program.
 
 - Now you have a json file of 23,434 vietnamese words and their definitions in English!
 
-- Python 3 is able to read them just fine. If you want the JSON to be in unicode then run `main.py`
+- If you want the file to use utf-8 so it's legible, run `convert.py` with Python 3 (I used 3.8 but earlier releases should work)
